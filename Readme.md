@@ -94,7 +94,7 @@ Nous avons superposé les prédictions du modèle sur les images d’évaluation
 
 ---
 
-5️⃣ Conclusion
+## 5️⃣ Conclusion
 
 Ce projet a permis d’évaluer les performances du modèle YOLOv8s sur un dataset dédié aux animaux. Nous avons constaté que le modèle obtenait des résultats très satisfaisants en détection de macaques avec une mAP@0.5 de 0.961. L’estimation de pose est présente avec mAP@0.5 de 0.839, montrant que certains ajustements pourraient améliorer encore plus la précision mais reste très valable.
 
